@@ -1,0 +1,24 @@
+# Core ML Libraries
+torch==2.3.0
+transformers==4.41.1
+
+# AWS SageMaker SDK
+sagemaker==2.219.0
+boto3==1.34.99
+
+# Web App / API
+streamlit==1.35.0
+requests==2.31.0
+
+# Data Science & Visualization
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Progress Bar
+tqdm==4.66.4
+
+# System & Utils
+argparse==1.4.0
+python-dotenv==1.0.1
