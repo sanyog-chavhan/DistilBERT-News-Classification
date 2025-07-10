@@ -1,4 +1,4 @@
-# News Classification using DistilBERT
+# News Classification using Fine-tuned DistilBERT
 
 An end-to-end, serverless NLP pipeline that classifies news headlines using a fine-tuned **DistilBERT** model. This project demonstrates how to train, deploy, and interact with a machine learning model entirely on **AWS** using **SageMaker**, **Lambda**, and **API Gateway**, with a modern **Streamlit frontend** for real-time inference.
 
