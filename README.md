@@ -4,12 +4,6 @@ An end-to-end, serverless NLP pipeline that classifies news headlines using a fi
 
 ---
 
-## Live Demo
-
-[Try it on Streamlit](https://your-streamlit-link-here)
-
----
-
 ## Problem Statement
 
 The goal is to automatically classify news headlines into one of four categories:
